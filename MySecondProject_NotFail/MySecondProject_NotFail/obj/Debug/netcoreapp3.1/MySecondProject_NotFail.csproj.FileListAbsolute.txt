@@ -1,0 +1,12 @@
+C:\Users\J\Projects\MyFisherPriceCode\MySecondProject_NotFail\MySecondProject_NotFail\bin\Debug\netcoreapp3.1\MySecondProject_NotFail.exe
+C:\Users\J\Projects\MyFisherPriceCode\MySecondProject_NotFail\MySecondProject_NotFail\bin\Debug\netcoreapp3.1\MySecondProject_NotFail.deps.json
+C:\Users\J\Projects\MyFisherPriceCode\MySecondProject_NotFail\MySecondProject_NotFail\bin\Debug\netcoreapp3.1\MySecondProject_NotFail.runtimeconfig.json
+C:\Users\J\Projects\MyFisherPriceCode\MySecondProject_NotFail\MySecondProject_NotFail\bin\Debug\netcoreapp3.1\MySecondProject_NotFail.runtimeconfig.dev.json
+C:\Users\J\Projects\MyFisherPriceCode\MySecondProject_NotFail\MySecondProject_NotFail\bin\Debug\netcoreapp3.1\MySecondProject_NotFail.dll
+C:\Users\J\Projects\MyFisherPriceCode\MySecondProject_NotFail\MySecondProject_NotFail\bin\Debug\netcoreapp3.1\MySecondProject_NotFail.pdb
+C:\Users\J\Projects\MyFisherPriceCode\MySecondProject_NotFail\MySecondProject_NotFail\obj\Debug\netcoreapp3.1\MySecondProject_NotFail.csproj.CoreCompileInputs.cache
+C:\Users\J\Projects\MyFisherPriceCode\MySecondProject_NotFail\MySecondProject_NotFail\obj\Debug\netcoreapp3.1\MySecondProject_NotFail.AssemblyInfoInputs.cache
+C:\Users\J\Projects\MyFisherPriceCode\MySecondProject_NotFail\MySecondProject_NotFail\obj\Debug\netcoreapp3.1\MySecondProject_NotFail.AssemblyInfo.cs
+C:\Users\J\Projects\MyFisherPriceCode\MySecondProject_NotFail\MySecondProject_NotFail\obj\Debug\netcoreapp3.1\MySecondProject_NotFail.dll
+C:\Users\J\Projects\MyFisherPriceCode\MySecondProject_NotFail\MySecondProject_NotFail\obj\Debug\netcoreapp3.1\MySecondProject_NotFail.pdb
+C:\Users\J\Projects\MyFisherPriceCode\MySecondProject_NotFail\MySecondProject_NotFail\obj\Debug\netcoreapp3.1\MySecondProject_NotFail.genruntimeconfig.cache
